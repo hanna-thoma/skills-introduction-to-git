@@ -3,7 +3,7 @@
 echo "Exercise Monitor: Installation started"
 
 # Install exercise monitor
-cp -r /workspaces/${RepositoryName}/.devcontainer/exercise-monitor /home/vscode/.vscode-remote/data/Machine/exercise-monitor
+cp -r /workspaces/skills-introduction-to-git/.devcontainer/exercise-monitor /home/vscode/.vscode-remote/data/Machine/exercise-monitor
 echo "Exercise Monitor: Copied monitor files to codespace"
 
 # Enable Git hook events
